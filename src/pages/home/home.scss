@@ -1,0 +1,94 @@
+page-home {
+    .icon{
+        color:#EA3688;
+    }
+       .icon2{
+           font-size: 12px;
+           float:right;
+           color:black ;
+       
+       }
+       
+       .h5{
+           font-size: 10px; color:#a866ee ;
+       }
+   
+       .content{ 
+          background-color:#DDD5D5;
+          color:#E8EBF0;
+          
+       }
+       .cd{
+           padding-left:-10px;
+           margin-left:3px;
+           padding-right:-5px;
+           margin-right:-10px;
+           background: transparent;
+         color:#a866ee ;
+         border-radius: 35px 30px 30px;
+         box-shadow: 2px 1px 3px 2px #C8BEBB  ;
+         
+       }
+       .chip-md{
+           background: transparent;
+       }
+       ion-navbar {
+           opacity: 0;
+           box-shadow: 0px 1px 13px 1px rgba(0,0,0,0.77);
+           color:#a866ee ;
+       }
+       
+       .wrap{
+           font-weight: bold;
+           padding-left:55px;
+           color:#433258 ;
+       }
+       .right{
+       float:right;
+       color:#433258;
+       }
+       .avat{
+           float:left;
+           padding-right:14px;
+       }
+       .left{
+           font-size:15px;
+           color:#433258 ;
+           font-weight: 700; 
+       }
+      .b{
+       color:white ;
+          font-size:25px;
+      }
+      
+   .ellepsis {
+           width: 100%;
+           overflow: hidden;
+           color:hsl(0, 0%, 29%);
+           border: 0px solid #000000;
+           display: -webkit-box;
+           -webkit-line-clamp: 3;
+           -webkit-box-orient: vertical;
+           color:#433258 ;
+       }
+       hr {
+           display: block;
+           height: 1px;
+           border: 0;
+           border-top: 1px solid #312B38  ;
+           padding: 0; 
+           color:#312B38  ;
+       }
+       .bg{
+           background-color:#EEECEC;
+          color:#312B38 ;
+       }
+       .nb{
+           color:white!important;
+           font-size:25px!important;
+           padding:2px;
+       }
+       .new{
+           color:black;
+       }
+       }
